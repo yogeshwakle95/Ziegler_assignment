@@ -1,0 +1,27 @@
+
+    
+    /* -------------------------------------------------
+      min-width: 992px
+    ---------------------------------------------------*/
+    @media only screen and (min-width: 992px) {
+
+
+    /* .navbar .navbar-nav li:hover > .dropdown-menu .header_banner_content .banner_img img {
+        -webkit-filter: blur(0);
+        filter: blur(0);
+    } */
+    .banner_content_inner {
+        padding: 30px;
+    }
+    .nav_cat ul li .dropdown-menu {
+        min-width: 700px;
+    }
+    .pr_search_icon {
+        display: none;
+    }
+    }
+   
+    
+   
+    
+   
